@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+  <div id="page-wrapper">
+    <header id="header">
+    <div class="logo">
+<img src='https://lh3.googleusercontent.com/OLdQiXP5JTRiLvg4jNFBQSVkYHgU1Xa0J58QT5pIEsam-vpPDhrM_QnRXuVc9Vhtm_9PLdtYklLaYvwTEd5S-gdk1bn6s1Pg8EuMSsE78L3vEXXat78QaCwtSVes5Mp8ZbxUSIcN0A=w2400' /></a> 
+    </div>
+      <nav id="nav-bar">
+        <ul class="nav-link"
+            <li><a class="nav-link" href="#aboutUs"> About Us </a></li>
+      <li><a class="nav-link" href="#how-its-made"> How it's Made </a></li>
+      </nav>
+  </header>
+  <div class="container"></div>
+<section id="hero"> 
+  <h2> Hand-Crafted, Customizable Candles </h2>
+  <form id="form" action="https://www.freecodecamp.com/email-submit"> <input name="email" type="email" id="email" placeholder="Enter Your Email Address Here" required />
+    <input id="submit" type="submit" value="Get Started" class="btn" />
+  </form>
+    </section>
+<div class="container">
+    <section id="aboutUs">
+      <div class="grid">
+        <div class="icon"><i class="fas fa-angle-double-right"></i> </div>
+      <div class="desc">
+          <h2>Premium Materials</h2>
+          <p>
+            We use high-quality wax and cotton wicks to ensure our customers have a clean-burning candle. 
+        </p> </br>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="icon"><i class="fas fa-angle-double-right"></i> </div> 
+      
+        <div class="desc">
+          <h2> Wide Selection of Scents </h2>
+          <p> We use only the best fragrance and essential oils in our candles. </p> </br>
+            </div>
+            </div>
+          <div class="grid">
+            <div class="icon"><i class="fas fa-angle-double-right"></i> </div> 
+          <div class="desc"> 
+            <h2> Made to Order </h2>
+              <p> Need baby blue candles for a gender reveal party? We got you covered. We make every order custom, so you can be sure you get <i> exactly </i> what you need. </p> </br>
+            </div> 
+      </div>
+      </section>
+  <section id="how-its-made" alt="candle making video">
+    <iframe 
+            width="560" 
+            height="315" src="https://www.youtube.com/embed/VsW86xHpocc" 
+            frameborder="0" 
+            allow="accelerometer; 
+                   autoplay; 
+                   encrypted-media; 
+                   gyroscope; 
+                   picture-in-picture" 
+            allowfullscreen></iframe>
+  </section>
+</div>
+</html>
